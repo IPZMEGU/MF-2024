@@ -1,0 +1,10 @@
+D:\krpp\labrob7\LabRob7\LabRob7\bin\Debug\LabRob7.exe.config
+D:\krpp\labrob7\LabRob7\LabRob7\bin\Debug\LabRob7.exe
+D:\krpp\labrob7\LabRob7\LabRob7\bin\Debug\LabRob7.pdb
+D:\krpp\labrob7\LabRob7\LabRob7\obj\Debug\LabRob7.csproj.AssemblyReference.cache
+D:\krpp\labrob7\LabRob7\LabRob7\obj\Debug\LabRob7.Form1.resources
+D:\krpp\labrob7\LabRob7\LabRob7\obj\Debug\LabRob7.Properties.Resources.resources
+D:\krpp\labrob7\LabRob7\LabRob7\obj\Debug\LabRob7.csproj.GenerateResource.cache
+D:\krpp\labrob7\LabRob7\LabRob7\obj\Debug\LabRob7.csproj.CoreCompileInputs.cache
+D:\krpp\labrob7\LabRob7\LabRob7\obj\Debug\LabRob7.exe
+D:\krpp\labrob7\LabRob7\LabRob7\obj\Debug\LabRob7.pdb
